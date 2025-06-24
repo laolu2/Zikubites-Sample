@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    background: #fdf1f7;
+    color: #333;
+}
+
+.bg-pink {
+    background-color: #f9e2ed;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.btn {
+    border-radius: 50px;
+}
